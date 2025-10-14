@@ -60,11 +60,6 @@
 
 ---
 
-## 📈 Contribution Graph  
-
-![Arnab's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arnab2546A&theme=tokyo-night)  
-
----
 
 ## 💬 Let's Connect!  
 
