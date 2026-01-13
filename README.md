@@ -9,8 +9,7 @@
 ⚙️ I specialize in **JavaScript, React.js, Firebase, Supabase, Flask**.  
 💡 I enjoy building **real-time, scalable web apps** that create impact.  
 🤝 Open to collaborating on **full-stack projects, hackathons, or open-source contributions**.  
-📬 Reach me at: **duaarnab@gmail.com**  
-🌱 Currently diving deeper into **AI-powered systems & advanced React patterns**.  
+📬 Reach me at: **duaarnab@gmail.com**   
 
 ---
 
