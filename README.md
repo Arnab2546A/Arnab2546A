@@ -1,4 +1,4 @@
-# Welcome to Arnab's GitHub Profile! 🚀  
+# Welcome to Arnab's GitHub Profile! 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&width=600&lines=Software+Developer;Frontend+Specialist;React+%7C+JavaScript+%7C+Firebase;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
